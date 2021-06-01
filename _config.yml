@@ -96,7 +96,13 @@ content:
         quote: >
           .. 
         description: | # this will include new lines to allow paragraphs
-
+      - layout: left
+        title: Robert Morris University
+        caption: 2011-2012
+        sub_title: M.S. Internet Information Systems
+        quote: >
+          ..
+        description: | #this will include new lines to allow paragraphs
 
   - title: A Little More About Me
     layout: text
