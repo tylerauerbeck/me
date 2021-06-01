@@ -7,7 +7,9 @@ version: 2
 
 # Personal info
 name: Tyler Auerbeck 
-title: Architect, Site Reliability Engineering
+title: |
+  Architect, Site Reliability Engineering
+  Red Hat Open Innovation Labs
 email: tjauerbeck [at] gmail.com
 website: tylerauerbeck.github.io/me
 
